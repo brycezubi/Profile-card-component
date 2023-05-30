@@ -27,5 +27,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Profile Card Component Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub)
+- Solution URL: [Profile Card Component Solution](https://www.frontendmentor.io/solutions/profile-card-component-bINvXfcEs0)
 - Live Site URL: [Card Component](https://brycezubi.github.io/Profile-card-component/)
